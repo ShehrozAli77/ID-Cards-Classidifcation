@@ -1,4 +1,4 @@
-# ID-Cards-Classifcation
+# ID-Cards-Classification
  ID-Cards Classifications Using Mask RCNN
 
  This Is Implementation of Mask_RCNN to Classify ID card and segment their fields.
